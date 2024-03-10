@@ -135,3 +135,6 @@ Looping through each and every folder and opening the json files appending only 
  **Data retrieval:**
  
    Finally if needed Using the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe.
+
+
+
